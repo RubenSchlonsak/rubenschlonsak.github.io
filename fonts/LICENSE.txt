@@ -1,0 +1,11 @@
+The web fonts in this folder are self-hosted copies of three open-source
+typefaces, each released under the SIL Open Font License, Version 1.1
+(https://openfontlicense.org):
+
+  Instrument Serif   https://fonts.google.com/specimen/Instrument+Serif
+  Schibsted Grotesk  https://fonts.google.com/specimen/Schibsted+Grotesk
+  JetBrains Mono     https://fonts.google.com/specimen/JetBrains+Mono
+
+The files are the unmodified latin and latin-ext WOFF2 subsets as served by
+Google Fonts. Copyright remains with the respective font authors; see the
+pages above for the copyright notices.
